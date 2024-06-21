@@ -15,7 +15,7 @@ This project uses Google Apps Script to automate the process of extracting Phone
 
 1. Open Google Sheets and create a new sheet for logging PhonePe payments.
 2. Navigate to `Extensions` > `Apps Script`.
-3. Replace the code in the script editor with the content from [script.js](path/to/script.js).
+3. Replace the code in the script editor with the content from [script.js](gep.js).
 4. Save the project with a name of your choice.
 5. Run the `setup` function to authorize and initialize the script.
 
