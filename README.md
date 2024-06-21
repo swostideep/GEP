@@ -37,11 +37,12 @@ This project uses Google Apps Script to automate the process of extracting Phone
 
   - In the script editor, locate the setup function.
   - Run the setup function to authorize and initialize the script:
-      
+      ```
       function setup() {
         // Authorize and initialize the script
         initialize();
       }
+      ```
 6.Deploy the Web App:
 
   - Click on Deploy > New deployment.
