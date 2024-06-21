@@ -27,7 +27,7 @@ This project uses Google Apps Script to automate the process of extracting Phone
 ### Code Files
 
 - [script.js](path/to/script.js): Contains the Google Apps Script code for fetching and logging payment details.
-- [dashboard.html](path/to/dashboard.html): Contains the HTML code for the dashboard interface.
+- [dashboard.html](dashboard.html): Contains the HTML code for the dashboard interface.
 
 ### Usage
 
