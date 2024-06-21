@@ -65,7 +65,7 @@ Following these steps will guide you through the installation process, including
 
 ### Code Files
 
-- [gep.js](path/to/script.js): Contains the Google Apps Script code for fetching and logging payment details.
+- [gep.js](gep.js): Contains the Google Apps Script code for fetching and logging payment details.
 - [dashboard.html](dashboard.html): Contains the HTML code for the dashboard interface.
 
 ### Usage
